@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07aaa7308e038b04b858d2545acfd11a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - misile: {instanceID: 0}
+  - mine: {instanceID: 0}
+  - coll_ship: {instanceID: 0}
+  - life: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
